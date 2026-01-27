@@ -1,6 +1,6 @@
 # Welcome to my Julia Biology repository ! 
 
-![Gif Derive Genetique](https://raw.githubusercontent.com/Limonade4/Biology-Julia/refs/heads/main/Miscellaneous/derive_genetique_progressive.gif)
+<img src="https://raw.githubusercontent.com/Limonade4/Biology-Julia/refs/heads/main/Miscellaneous/derive_genetique_progressive.gif" width="250" height="250"/>
 Here you can find all my *Pluto notebooks* (written in Julia). 
 
 Most projects are for **teaching** purpose but some are just fun simulations and stuff I did during my free time.
