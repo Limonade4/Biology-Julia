@@ -8,7 +8,7 @@ Notebooks that are **not** used for a specific course are gathered in the `Misce
 
 <img src="https://raw.githubusercontent.com/Limonade4/Biology-Julia/refs/heads/main/Miscellaneous/derive_genetique_progressive.gif" width="350" height="350"/>
 
- *Genetic drift simulation that I have done with Julia*
+ *Genetic drift simulation that I made with Julia*
  
 ## Julia Language
 
