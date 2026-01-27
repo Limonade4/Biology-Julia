@@ -7,6 +7,7 @@ Most projects are for **teaching** purpose but some are just fun simulations and
 Notebooks that are not used for a specific course are gathered in the `Miscellaneous` folder.
 
 <img src="https://raw.githubusercontent.com/Limonade4/Biology-Julia/refs/heads/main/Miscellaneous/derive_genetique_progressive.gif" width="350" height="350"/>
+
  *Genetic drift simulation that I have done with Julia*
  
 ## Julia Language
