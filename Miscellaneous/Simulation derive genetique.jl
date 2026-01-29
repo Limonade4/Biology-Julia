@@ -21,9 +21,6 @@ end
 begin
 	using PlutoUI;
 	using Plots;
-	using DataFrames;
-	using StatsPlots;
-	using Agents;
 	using Distributions;
 end
 
