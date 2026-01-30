@@ -1,3 +1,2 @@
 #!/bin/bash
-# On force Julia à précompiler les gros paquets maintenant
 julia -e 'using Pkg; Pkg.activate("binder"); Pkg.instantiate(); using Plots; using PlutoUI; using Distributions;'
