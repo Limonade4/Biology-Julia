@@ -20,3 +20,9 @@ Notebooks that are **not** used for a specific course are gathered in the `Misce
 For more information about the vast world of the Julia programming language I invite you to check the following links:
 
 You can **download** it [here](https://julialang.org/) and check **documentation** [here](https://docs.julialang.org/en/v1/)
+
+<p>Small planet, small picture:</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/1024px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg"
+	width="200"
+	alt="Pluto (dwarf planet)">
