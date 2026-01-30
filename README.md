@@ -23,6 +23,6 @@ You can **download** it [here](https://julialang.org/) and check **documentation
 
 <p>Small planet, small picture:</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/1024px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg"
+<img src="https://julialang.org/assets/infra/logo.svg"
 	width="200"
 	alt="Pluto (dwarf planet)">
