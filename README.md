@@ -18,7 +18,8 @@ Notebooks that are **not** used for a specific course are gathered in the `Misce
 ## Julia Language
 
 <img src="https://julialang.org/assets/infra/logo.svg"
-	width="100">
+	width="100"
+	alt="Julia logo">
 
 For more information about the vast world of the Julia programming language I invite you to check the following links:
 
