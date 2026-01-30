@@ -19,7 +19,7 @@ begin
         
         <ul>
             <li style="margin: 10px 0;">
-                <a href="./open?path=Simulation_derive_genetique.jl" 
+                <a href="./open?path=Miscellaneous/Simulation_derive_genetique.jl" 
                    style="font-size: 18px; font-weight: bold; color: #007bff; text-decoration: none;">
                    👉 Module 1 : La Dérive Génétique (Simulation)
                 </a>
