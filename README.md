@@ -23,5 +23,5 @@ You can **download** it [here](https://julialang.org/) and check **documentation
 
 
 <img src="https://julialang.org/assets/infra/logo.svg"
-	width="100"
+	width="150"
 	alt="Julia logo">
