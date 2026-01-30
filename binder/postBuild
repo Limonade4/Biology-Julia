@@ -1,3 +1,5 @@
 #!/bin/bash
-# On demande à Julia d'utiliser le projet du dossier 'binder' et de précompiler les paquets
-julia --project=binder -e 'using Pkg; Pkg.instantiate(); using Plots; using PlutoUI; using Distributions;'
+# On lance simplement les commandes using. 
+# Comme Binder a déjà installé le Project.toml dans l'environnement par défaut, 
+# Julia va les trouver et les précompiler.
+julia -e 'using Plots; using PlutoUI; using Distributions;'
