@@ -21,8 +21,6 @@ For more information about the vast world of the Julia programming language I in
 
 You can **download** it [here](https://julialang.org/) and check **documentation** [here](https://docs.julialang.org/en/v1/)
 
-<p>Small planet, small picture:</p>
-
 <img src="https://julialang.org/assets/infra/logo.svg"
 	width="200"
 	alt="Pluto (dwarf planet)">
